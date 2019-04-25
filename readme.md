@@ -2,7 +2,7 @@
 
  - Personal project to clean the UI/UX of the Wells Fargo App based off of user reviews and to help improve customer retention, thus increase profits. 
 
-[![N|Solid](https://media.giphy.com/media/SxGG1EKqLWZZgBZqRR/giphy.gif)](https://play.google.com/store/apps/details?id=com.passionatesolutions.app.eloteman)
+[![N|Solid](https://media.giphy.com/media/lqdgbzvvCndkrv2OjI/giphy.gif)](https://play.google.com/store/apps/details?id=com.passionatesolutions.app.eloteman)
 
 
 
