@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+    <item android:id="@+id/locations"
+        android:title="ATMs/Locations"
+        app:showAsAction="never"
+        android:checkable="false" />
+    <item android:id="@+id/appointment"
+        android:title="Make an Appointment"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/services"
+        android:title="Products &amp; Services"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/rates"
+        android:title="Check Rates"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/contact"
+        android:title="Contact Us"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/about"
+        android:title="About Wells Fargo"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/enroll"
+        android:title="Enroll in Wells Fargo Online"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/forgot"
+        android:title="Forgot Password/Username?"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/smallBusiness"
+        android:title="Small Business"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/commercial"
+        android:title="Commercial"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/full"
+        android:title="Full Site"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/policy"
+        android:title="Privacy &amp; Cookies Policy"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/security"
+        android:title="Online &amp; Mobile Security"
+        app:showAsAction="never"
+        android:checkable="false"/>
+    <item android:id="@+id/guide"
+        android:title="Quick Guide"
+        app:showAsAction="never"
+        android:checkable="false"/>
+
+    </group>
+
+</menu>
